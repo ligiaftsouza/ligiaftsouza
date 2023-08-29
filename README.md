@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 
 # Lígia Souza, Ph.D.
 - Data Analyst & Research Specialist, Memorial University of Newfoundland
-[Linkedin](linkedin.com/ligiaftsouza)
+
+[Linkedin](https:://linkedin.com/ligiaftsouza)
