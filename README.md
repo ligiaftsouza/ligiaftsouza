@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 # Lígia Souza, Ph.D.
-- Data Analyst & Research Specialist, Memorial University of Newfoundland
+- Data Scientist @ Soil Carbon Solutions Center, Colorado State University
